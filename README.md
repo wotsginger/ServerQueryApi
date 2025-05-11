@@ -6,6 +6,8 @@
 
 返回一张渲染好的图片：`https://query.sitmc.club/<serveraddr:port>?img`
 
+返回150%大小的图片：`https://query.sitmc.club/<serveraddr:port>?img&size=150`
+
 没填 Port 会解析 25565，支持 srv
 
 大概率是重复造轮子，但是我想要一张好看的图片就自己写了
